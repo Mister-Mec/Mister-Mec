@@ -1,6 +1,11 @@
-### Hello, My name is Dhruv Khandelwal 👋
+![image](https://github.com/Mister-Mec/Mister-Mec/assets/95204280/00097cf5-d20a-4a7d-9da5-688136607635)### Hello, My name is Dhruv Khandelwal 👋
 <ul>
-  <li>- 🔭 I’m currently working on Naturalist</li>
+  <li>🔭 I’m currently working on Naturalist</li>
+  <li>🌱 I’m currently learning Cloud Computing with AWS</li>
+  <li>👩‍💻 We can have discussion on C++, Data Structures and Algorithms, JavaScript, Web Development and CS Fundamentals.</li>
+  <li>🤔 I’m looking for help with DevOps learning road map</li>
+  <li>📫 How to reach me : <a href="https://www.linkedin.com/in/dhruv-khandelwal-916531200/">LinkedIn</a>, <a href="mailto:dhruva609@gmail.com">Email.</a></li>
+  <li>⚡ Fun fact : I love designing.</li>
 </ul>
 
 <!--
