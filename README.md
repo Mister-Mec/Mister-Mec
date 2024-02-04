@@ -1,4 +1,4 @@
-![image](https://github.com/Mister-Mec/Mister-Mec/assets/95204280/00097cf5-d20a-4a7d-9da5-688136607635)### Hello, My name is Dhruv Khandelwal 👋
+### Hello, My name is Dhruv Khandelwal 👋
 <ul>
   <li>🔭 I’m currently working on Naturalist</li>
   <li>🌱 I’m currently learning Cloud Computing with AWS</li>
