@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, My name is Dhruv Khandelwal 👋
+<ul>
+  <li>- 🔭 I’m currently working on Naturalist</li>
+</ul>
 
 <!--
 **Mister-Mec/Mister-Mec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
